@@ -1,0 +1,818 @@
+[
+  {
+    "nombre_producto": "Soporte De Espada De Dos Niveles",
+    "precio_producto": 182900,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Kit De Limpieza Espadas",
+    "precio_producto": "Katana Samurai",
+    "inventario_producto": "Kenjutsu",
+    "origen_producto": "Ninjutsu"
+  },
+  {
+    "nombre_producto": "Lyuesword Forjado A Mano Damasco Doblado Acero Arcilla Templ",
+    "precio_producto": 3112791,
+    "inventario_producto": "Cantidad:1 unidad(12 disponibles)",
+    "origen_producto": "Bucaramanga"
+  },
+  {
+    "nombre_producto": "Katana Espada Sin Funda Para Decoracion Y Coleccion Cosplay",
+    "precio_producto": 229900,
+    "inventario_producto": null,
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Katana Japonesa De Exhibicion",
+    "precio_producto": 350000,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Usaquen"
+  },
+  {
+    "nombre_producto": "Palillos Samurai Katana Japoneses Tres Heros Ieyasu Tokugawa",
+    "precio_producto": 201398,
+    "inventario_producto": "Cantidad:1 unidad(12 disponibles)",
+    "origen_producto": "Bosa"
+  },
+  {
+    "nombre_producto": "Exibidor En Madera Para Katanas Espadas",
+    "precio_producto": "sables Ejercito Daga",
+    "inventario_producto": 51900,
+    "origen_producto": null
+  },
+  {
+    "nombre_producto": "Para La Espada Danceonlinehasebe Prototipos Escala 1/8 Abs Y",
+    "precio_producto": 1209859,
+    "inventario_producto": "Cantidad:1 unidad(12 disponibles)",
+    "origen_producto": "Floridablanca"
+  },
+  {
+    "nombre_producto": "Saki Katana - Tijeras Japonesas  6 Unidades   Color Negro",
+    "precio_producto": 1607900,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "San Cristobal Sur"
+  },
+  {
+    "nombre_producto": "Katana Shusui De Zoro De One Piece Cosplay",
+    "precio_producto": 250000,
+    "inventario_producto": null,
+    "origen_producto": "Antonio Narino"
+  },
+  {
+    "nombre_producto": "Lego Dual Scabbard Con 2 Espadas Katana De Plata",
+    "precio_producto": 72990,
+    "inventario_producto": "Cantidad:1 unidad(12 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Correa Accesorio Para Porta Katanas Para Cosplay Sofa Anime",
+    "precio_producto": 21900,
+    "inventario_producto": null,
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Katana De Dragon De 40 Pulgadas",
+    "precio_producto": "Afilada En Acero Damasco",
+    "inventario_producto": 1799000,
+    "origen_producto": null
+  },
+  {
+    "nombre_producto": "Katana Dragon De Acero Damasco",
+    "precio_producto": "Rojo Sangre",
+    "inventario_producto": "Afilada",
+    "origen_producto": 1790000
+  },
+  {
+    "nombre_producto": "Espada Ninja Ninjato Katana Solo Decoracion Y Lujo Cerbatana",
+    "precio_producto": 337900,
+    "inventario_producto": null,
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Katana Musha Gold Warrior",
+    "precio_producto": 1000000,
+    "inventario_producto": null,
+    "origen_producto": "Cali"
+  },
+  {
+    "nombre_producto": "Katana Dragon De Acero Damasco",
+    "precio_producto": "Rojo Sangre",
+    "inventario_producto": "Afilada",
+    "origen_producto": 1790000
+  },
+  {
+    "nombre_producto": "1: 6 Soldado Accs Samurai Katana Japonesa Hoja Corta Para",
+    "precio_producto": 146853,
+    "inventario_producto": "Cantidad:1 unidad(11 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Palillos Samurai Katana Japoneses Tres Heros Ieyasu Tokugawa",
+    "precio_producto": 228795,
+    "inventario_producto": "Cantidad:1 unidad(12 disponibles)",
+    "origen_producto": "Chapinero"
+  },
+  {
+    "nombre_producto": "Espada Katana Negra En Acero Para Arte Marcial Kendo Aikido",
+    "precio_producto": 306900,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Saki Katana - Tijeras Japonesas  6 Unidades   Color Negro",
+    "precio_producto": 1607900,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "San Cristobal Sur"
+  },
+  {
+    "nombre_producto": "Samurai Tactical Wakizashi - Mochila Tactica",
+    "precio_producto": 269900,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Makoto - Bolsa De Seda Para Espadas Japonesas De Katana",
+    "precio_producto": "Wak",
+    "inventario_producto": 109400,
+    "origen_producto": "Cantidad:1 unidad(10 disponibles)"
+  },
+  {
+    "nombre_producto": "Katana Japonesa De Exhibicion",
+    "precio_producto": 330000,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Usaquen"
+  },
+  {
+    "nombre_producto": "Soporte Para Espada",
+    "precio_producto": "Soporte Para Katana De 1 Pieza",
+    "inventario_producto": "Soporte",
+    "origen_producto": 107029
+  },
+  {
+    "nombre_producto": "Nuevo Y De Alta Calidad Samurai Katana Metal Palanca De",
+    "precio_producto": 388957,
+    "inventario_producto": "Cantidad:1 unidad(3 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Katana Espada 1060 Hoja Acero Carbono Samurai Battle Ready",
+    "precio_producto": 1361510,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Chapinero"
+  },
+  {
+    "nombre_producto": "Baston  Katana Oculta",
+    "precio_producto": "defensa Personal",
+    "inventario_producto": "judo",
+    "origen_producto": "karate"
+  },
+  {
+    "nombre_producto": "Sh Kaeru Rana Wakizashi Multiples",
+    "precio_producto": 7852990,
+    "inventario_producto": null,
+    "origen_producto": "Medellin"
+  },
+  {
+    "nombre_producto": "Tsuba Decorativa Samurai X",
+    "precio_producto": "Katana",
+    "inventario_producto": "Sakabatou",
+    "origen_producto": "Espada"
+  },
+  {
+    "nombre_producto": "Espada De Madera Lacado Para Soporte Samurai Katana",
+    "precio_producto": 133900,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Catillas De Palanca De Palanca De 20 Centimetros Negro Rojo",
+    "precio_producto": 320997,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Correa Accesorio Para Porta Katanas Para Cosplay Sofa Anime",
+    "precio_producto": 21900,
+    "inventario_producto": null,
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Katana Espada  Sable  Coleccion Anime Fontibon Daga No Stand",
+    "precio_producto": 306900,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Espada Katana Samarai Blanca Dragon (3 Piezas) Con Estante",
+    "precio_producto": 800000,
+    "inventario_producto": "Cantidad:1 unidad(3 disponibles)",
+    "origen_producto": "Sabaneta"
+  },
+  {
+    "nombre_producto": "Espada Katana Sable Daga Deadpool Samuraix No Stand Cosplay",
+    "precio_producto": 306900,
+    "inventario_producto": "Cantidad:1 unidad(3 disponibles)",
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Makoto - Bolsa De Seda Para Espadas Japonesas De Katana",
+    "precio_producto": "Wak",
+    "inventario_producto": 109400,
+    "origen_producto": "Cantidad:1 unidad(10 disponibles)"
+  },
+  {
+    "nombre_producto": "Accesorio Correa Portakatana",
+    "precio_producto": "cosplay Anime",
+    "inventario_producto": "walking No Katana",
+    "origen_producto": 24900
+  },
+  {
+    "nombre_producto": "Montaje En A Ed 5 Ni Eles Titula  De La Espada Del Sam...",
+    "precio_producto": 381999,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "1: 6 Soldado Accs Samurai Katana Japonesa Hoja Corta Para",
+    "precio_producto": 132408,
+    "inventario_producto": "Cantidad:1 unidad(11 disponibles)",
+    "origen_producto": "Guangdong"
+  },
+  {
+    "nombre_producto": "Kit De Limpieza Espadas",
+    "precio_producto": "Katana Samurai",
+    "inventario_producto": "Kenjutsu",
+    "origen_producto": "Ninjutsu"
+  },
+  {
+    "nombre_producto": "Katana Cambio De Mando De La Palanca De Cambios Samurai...",
+    "precio_producto": 151999,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Abrecartas Katana Corto Negro",
+    "precio_producto": 277900,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Catillas De Palanca De Palanca De 20 Centimetros Oro Negro",
+    "precio_producto": 243081,
+    "inventario_producto": null,
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "1: 6 Soldado Accs Samurai Katana Japonesa Hoja Corta Para",
+    "precio_producto": 146853,
+    "inventario_producto": "Cantidad:1 unidad(11 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Katana Japonesa De Exhibicion",
+    "precio_producto": 350000,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Usaquen"
+  },
+  {
+    "nombre_producto": "Katana Espada Sable Armas Modelo Adornos Para Figuras De",
+    "precio_producto": 146853,
+    "inventario_producto": "Cantidad:1 unidad(9 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Kimetsu No Yaiba Espada Katana En Caja Precio Por Unidad",
+    "precio_producto": 35000,
+    "inventario_producto": null,
+    "origen_producto": "Puente Aranda"
+  },
+  {
+    "nombre_producto": "Shadow Ninjas Night Fury Fury Katana Sword Disfraz Acce...",
+    "precio_producto": 194999,
+    "inventario_producto": null,
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Katana 3d Esmalte Pin Pin Espada Samurai",
+    "precio_producto": 136999,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Espada Ninja Ninjato Katana Solo Decoracion  Anime Ninjutsu",
+    "precio_producto": 337900,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Cambio De Marchas Del Coche Boton De La Cabeza Palanca De",
+    "precio_producto": 144853,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "Guangdong"
+  },
+  {
+    "nombre_producto": "Estante Para Cuchillos Soporte Japones Varilla De 4 Capas",
+    "precio_producto": 137919,
+    "inventario_producto": "Cantidad:1 unidad(16 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Katana Japonesa De Exhibicion",
+    "precio_producto": 330000,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Usaquen"
+  },
+  {
+    "nombre_producto": "Katana Samurai Kuro - Funcional En Acero Al Carbono 1045",
+    "precio_producto": 1042800,
+    "inventario_producto": null,
+    "origen_producto": "Bucaramanga"
+  },
+  {
+    "nombre_producto": "E Bogu Olip Opileno Neg O Ninja Ninjutsu Katana 34 5",
+    "precio_producto": 317999,
+    "inventario_producto": null,
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Catillas De Palanca De Palanca De 20 Centimetros Negro",
+    "precio_producto": 322153,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "1: 6 Soldado Accs Samurai Katana Japonesa Hoja Corta Para",
+    "precio_producto": 146853,
+    "inventario_producto": "Cantidad:1 unidad(11 disponibles)",
+    "origen_producto": "Guangdong"
+  },
+  {
+    "nombre_producto": "Katanas Japonesas 3 Tamanos",
+    "precio_producto": "Hoja Acero",
+    "inventario_producto": "D Coleccion. Usadas",
+    "origen_producto": 1175000
+  },
+  {
+    "nombre_producto": "Base Espadas X2 - Mesa - Para Katana",
+    "precio_producto": "Wakizashi",
+    "inventario_producto": "Bokken",
+    "origen_producto": 72500
+  },
+  {
+    "nombre_producto": "Katana Espada Sable Armas Modelo Adornos Para Figuras De",
+    "precio_producto": 128185,
+    "inventario_producto": "Cantidad:1 unidad(9 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Bolso Bandolera",
+    "precio_producto": 1350900,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Estante De Exhibicion Del Soporte 2 Capas 14",
+    "precio_producto": "6x9",
+    "inventario_producto": "8 Pulgadas",
+    "origen_producto": 97117
+  },
+  {
+    "nombre_producto": "Japones Samu Ai Espadas A  Eso Ios Mekugi Eg A A Kat...",
+    "precio_producto": 132999,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Cordon Ito Para Envolver Mango Saya De Katana De Seda Sint",
+    "precio_producto": 128100,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Mantenimiento De Espada De Samurai Japones Katana De Ace",
+    "precio_producto": 149900,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Kei Project Katana Samurai Espada Palanca De Cambios Palanca",
+    "precio_producto": 311990,
+    "inventario_producto": "Cantidad:1 unidad(12 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Espada Katana Bokken Madera Entrenamiento Kendo",
+    "precio_producto": 249900,
+    "inventario_producto": "Cantidad:1 unidad(3 disponibles)",
+    "origen_producto": "Chapinero"
+  },
+  {
+    "nombre_producto": "Catillas De Palanca De Palanca 20 Centimetros Azul Blanco",
+    "precio_producto": 320997,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Katana Kimetsu No Yaiba Demon Slayer Espada Metalica",
+    "precio_producto": 65000,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Puente Aranda"
+  },
+  {
+    "nombre_producto": "Espada Ninja Ninjato Katana Solo Decoracion Y Lujo Cerbatana",
+    "precio_producto": 337900,
+    "inventario_producto": null,
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Espada Katana Doble Filo Espiga Completa Hoja Acero Carbono",
+    "precio_producto": 1361510,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Chapinero"
+  },
+  {
+    "nombre_producto": "Base Espadas X1 - Mesa - Katana Kake",
+    "precio_producto": "Soporte",
+    "inventario_producto": "Exhibidor",
+    "origen_producto": 47500
+  },
+  {
+    "nombre_producto": "Espada Wakizashi De Combate De Ronin Con Vaina Moldeada Por",
+    "precio_producto": 378900,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Katana Rengoku Demon Slayer Cosplay (poliuretano)",
+    "precio_producto": 250000,
+    "inventario_producto": null,
+    "origen_producto": "Antonio Narino"
+  },
+  {
+    "nombre_producto": "Katana Kochou Shinobu Demon Slayer Cosplay (madera)",
+    "precio_producto": 250000,
+    "inventario_producto": null,
+    "origen_producto": "Antonio Narino"
+  },
+  {
+    "nombre_producto": "Kimetsu No Yaiba Demon Slayer Mini Espada Katana En Blister",
+    "precio_producto": 65000,
+    "inventario_producto": "Cantidad:1 unidad(3 disponibles)",
+    "origen_producto": "Puente Aranda"
+  },
+  {
+    "nombre_producto": "Base Espadas X2 - Mesa - Para Katana",
+    "precio_producto": "Wakizashi",
+    "inventario_producto": "Bokken",
+    "origen_producto": 72500
+  },
+  {
+    "nombre_producto": "Katana Espada Daga En Acero Kendo Aikido Coleccion Taekwondo",
+    "precio_producto": 306900,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Katana Tanjiro Anime ( Kimetsu No Yaiba)",
+    "precio_producto": 120000,
+    "inventario_producto": null,
+    "origen_producto": "Ciudad Bolivar"
+  },
+  {
+    "nombre_producto": "Espada Katana Samarai Blanca Dragon (3 Piezas) Con Estante",
+    "precio_producto": 800000,
+    "inventario_producto": "Cantidad:1 unidad(3 disponibles)",
+    "origen_producto": "Sabaneta"
+  },
+  {
+    "nombre_producto": "Katana Espada Daga En Acero Kendo Aikido Coleccion Taekwondo",
+    "precio_producto": 306900,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Espada Katana Sable",
+    "precio_producto": "samurai En Acero Para Decoracion Regalo",
+    "inventario_producto": 306900,
+    "origen_producto": "Cantidad:1 unidad(2 disponibles)"
+  },
+  {
+    "nombre_producto": "Lyuesword Forjado A Mano Damasco Doblado Acero Arcilla Templ",
+    "precio_producto": 3183363,
+    "inventario_producto": "Cantidad:1 unidad(12 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Tsuba Decorativa Ninja Gaiden",
+    "precio_producto": "Katana",
+    "inventario_producto": "Xbox",
+    "origen_producto": "Play Station"
+  },
+  {
+    "nombre_producto": "Correa De Cinturon De La Espada Rana Ajuste Universal ...",
+    "precio_producto": 164999,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Kimetsu No Yaiba Demon Slayer Set X 8 Accesorios Katana",
+    "precio_producto": 89000,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Puente Aranda"
+  },
+  {
+    "nombre_producto": "Katana Espada Sable Armas Modelo Adornos Para Figuras De",
+    "precio_producto": 128185,
+    "inventario_producto": "Cantidad:1 unidad(9 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Espada Katana Sable",
+    "precio_producto": "samurai",
+    "inventario_producto": "artes Marciales",
+    "origen_producto": "daga No Stand"
+  },
+  {
+    "nombre_producto": "Kimetsu No Yaiba Espada Katana Demon Slayer",
+    "precio_producto": 35000,
+    "inventario_producto": "Cantidad:1 unidad(3 disponibles)",
+    "origen_producto": "Puente Aranda"
+  },
+  {
+    "nombre_producto": "Engeng  Osplay De Anime Ko Hou Shinobu Katana Samu Ai ...",
+    "precio_producto": 491999,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "41 De Metal Nue O Anime De Fantasia De La Esp...",
+    "precio_producto": 443999,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Katana Espada Sable Armas Modelo Adornos Para Figuras De",
+    "precio_producto": 146853,
+    "inventario_producto": "Cantidad:1 unidad(9 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Espada Katana En Acero Para Decoracion Coleccion Kill Bill",
+    "precio_producto": 306900,
+    "inventario_producto": null,
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "1: 6 Soldado Accs Samurai Katana Japonesa Hoja Corta Para",
+    "precio_producto": 146853,
+    "inventario_producto": "Cantidad:1 unidad(11 disponibles)",
+    "origen_producto": "Guangdong"
+  },
+  {
+    "nombre_producto": "Espada Samurai Con Forma De Dragon Chino",
+    "precio_producto": "Tamano Pequeno",
+    "inventario_producto": 1,
+    "origen_producto": 111118
+  },
+  {
+    "nombre_producto": "Katana Bushi - Funcional En Acero Al Carbono 1045",
+    "precio_producto": "Samurai",
+    "inventario_producto": 1025600,
+    "origen_producto": null
+  },
+  {
+    "nombre_producto": "Espada Sable Daga Katana Color1 Mts",
+    "precio_producto": "Iaido Kendo",
+    "inventario_producto": "samurai Sai",
+    "origen_producto": 306900
+  },
+  {
+    "nombre_producto": "Samurai Caja De Seda De La Espada Del Katana",
+    "precio_producto": 346999,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Espada De Katana Dragon Ninja Sombra",
+    "precio_producto": 181200,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Sh Kaeru Rana Wakizashi Multiples",
+    "precio_producto": 8715900,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Envigado"
+  },
+  {
+    "nombre_producto": "Dragon Samurai Espada Katana Wakizashi Tanto Soporte Pequen",
+    "precio_producto": 172800,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Accesorio Correa Porta Katana Espada Arte Marcial Kendo Sais",
+    "precio_producto": 24900,
+    "inventario_producto": null,
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Paraguas Con Mango De Espada Katana De 24 Varillas",
+    "precio_producto": ".",
+    "inventario_producto": 311990,
+    "origen_producto": "Cantidad:1 unidad(12 disponibles)"
+  },
+  {
+    "nombre_producto": "Demonio Asesino Kimetsu Sin Yaiba Agatsuma Zenitsu Espa...",
+    "precio_producto": 168900,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Envigado"
+  },
+  {
+    "nombre_producto": "Tsuba Decorativa Kill Bill",
+    "precio_producto": "Katana",
+    "inventario_producto": "Hattori Hanzo",
+    "origen_producto": "Espada"
+  },
+  {
+    "nombre_producto": "Katana Espada Sable Samurai Ninja En Acero Para Decoracion",
+    "precio_producto": 306900,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Saki Katana - Tijeras Japonesas  6 Unidades   Color Negro",
+    "precio_producto": 1609200,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Tsuba Decorativa Inuyasha",
+    "precio_producto": "Katana",
+    "inventario_producto": "Anime",
+    "origen_producto": "Espada"
+  },
+  {
+    "nombre_producto": "Vendo Espadas Para Exhibicion De Artes Marciales",
+    "precio_producto": 280000,
+    "inventario_producto": null,
+    "origen_producto": "Cartagena De Indias"
+  },
+  {
+    "nombre_producto": "Abrecartas Corta Negro Katana Con Decoracion De Soporte Vert",
+    "precio_producto": 283000,
+    "inventario_producto": null,
+    "origen_producto": "Suba"
+  },
+  {
+    "nombre_producto": "Demonio Asesino Kimetsu Sin Yaiba Agatsuma Zenitsu Espa...",
+    "precio_producto": 159990,
+    "inventario_producto": null,
+    "origen_producto": "Medellin"
+  },
+  {
+    "nombre_producto": "Universal Samurai Sword Gear Knob Shifter Katana Metal",
+    "precio_producto": 227747,
+    "inventario_producto": "Cantidad:1 unidad(6 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Katana Musha Gold Warrior",
+    "precio_producto": 1000000,
+    "inventario_producto": null,
+    "origen_producto": "Cali"
+  },
+  {
+    "nombre_producto": "Saki Katana - Tijeras Japonesas  6 Unidades   Color Negro",
+    "precio_producto": 1609200,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Katana Kimetsu No Yaiba (demon Slayer) - Rengoku En Acero",
+    "precio_producto": 350000,
+    "inventario_producto": null,
+    "origen_producto": "Kennedy"
+  },
+  {
+    "nombre_producto": "Accesorio Correa Portakatana",
+    "precio_producto": "cosplay Anime",
+    "inventario_producto": "walking No Katana",
+    "origen_producto": 24900
+  },
+  {
+    "nombre_producto": "Baston Con Cuchillo Punal Oculto Katana Lesiones Defensa",
+    "precio_producto": 209900,
+    "inventario_producto": null,
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Katana Japonesa De Exhibicion",
+    "precio_producto": 350000,
+    "inventario_producto": "Cantidad:1 unidad(4 disponibles)",
+    "origen_producto": "Usaquen"
+  },
+  {
+    "nombre_producto": "Baston De Calavera Espada Oculta Estoque Katana Defensa  Sai",
+    "precio_producto": 199900,
+    "inventario_producto": "Cantidad:1 unidad(3 disponibles)",
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Set De 3 Kunais Lanzables En Acero Naruto Ninja Judo Sais",
+    "precio_producto": 34900,
+    "inventario_producto": "Cantidad:1 unidad(2 disponibles)",
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Demon Slayer Tanjiro Tomioka Mini Espada Katana Cosplay",
+    "precio_producto": 40000,
+    "inventario_producto": "Cantidad:1 unidad(10 disponibles)",
+    "origen_producto": "Puente Aranda"
+  },
+  {
+    "nombre_producto": "Wraith Of East Faux Leather Sword Strap Gun Flintlock Pistol",
+    "precio_producto": 196410,
+    "inventario_producto": "Cantidad:1 unidad(12 disponibles)",
+    "origen_producto": "Bucaramanga"
+  },
+  {
+    "nombre_producto": "Palillos Samurai Katana Japoneses Tres Heros Ieyasu Tokugawa",
+    "precio_producto": 208143,
+    "inventario_producto": "Cantidad:1 unidad(12 disponibles)",
+    "origen_producto": "Aguachica"
+  },
+  {
+    "nombre_producto": "Catillas De Palanca De Palanca De Palanca De 15cm Oro Negro",
+    "precio_producto": 157387,
+    "inventario_producto": null,
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Universal Samurai Sword Gear Knob Shifter Katana Metal",
+    "precio_producto": 243881,
+    "inventario_producto": "Cantidad:1 unidad(6 disponibles)",
+    "origen_producto": "China"
+  },
+  {
+    "nombre_producto": "Katana Japonesa De Exhibicion",
+    "precio_producto": 330000,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Usaquen"
+  },
+  {
+    "nombre_producto": "1: 6 Soldado Accs Samurai Katana Japonesa Hoja Corta Para",
+    "precio_producto": 132408,
+    "inventario_producto": "Cantidad:1 unidad(11 disponibles)",
+    "origen_producto": "Guangdong"
+  },
+  {
+    "nombre_producto": "Bronceado Espada De Combate Wakizashi Con La Envoltura ...",
+    "precio_producto": 358999,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Katana Ao Tsuru - Funcional En Acero Al Carbono 1045",
+    "precio_producto": "Ninja",
+    "inventario_producto": 1028200,
+    "origen_producto": null
+  },
+  {
+    "nombre_producto": "Espada Katana Cobra Coleccion Decoracion",
+    "precio_producto": 450000,
+    "inventario_producto": null,
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "E Bogu  a Ti A De La Espada Katana De Made A Estilo D...",
+    "precio_producto": 359999,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Engativa"
+  },
+  {
+    "nombre_producto": "Katana Tsuru - Funcional En Acero Al Carbon 1045",
+    "precio_producto": "Samurai",
+    "inventario_producto": 1037500,
+    "origen_producto": null
+  },
+  {
+    "nombre_producto": "Espada Katana En Acero Para Decoracion Coleccion Kill Bill",
+    "precio_producto": 306900,
+    "inventario_producto": null,
+    "origen_producto": "Fontibon"
+  },
+  {
+    "nombre_producto": "Katana Japonesa De Exhibicion",
+    "precio_producto": 350000,
+    "inventario_producto": "Cantidad:1 unidad(5 disponibles)",
+    "origen_producto": "Usaquen"
+  },
+  {
+    "nombre_producto": "Katana Espada Sin Funda Para Decoracion Y Coleccion Anime",
+    "precio_producto": 229900,
+    "inventario_producto": null,
+    "origen_producto": "Fontibon"
+  }
+]
