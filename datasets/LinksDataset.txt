@@ -8,7 +8,7 @@
 
  https://www.kaggle.com/datasets/chicago/chicago-crime
  	https://www.chicagotribune.com/data/ct-shooting-victims-map-charts-htmlstory.html
-
+ https://www.kaggle.com/datasets/currie32/crimes-in-chicago
  https://www.kaggle.com/datasets/rajanand/crime-in-india
  https://www.kaggle.com/datasets/paultimothymooney/denver-crime-data
 
@@ -24,3 +24,31 @@
  		https://data.london.gov.uk/dataset/police-force-strength
  		https://data.london.gov.uk/dataset/social-integration-by-borough
  		https://data.london.gov.uk/dataset/public-perception-
+ 		https://data.london.gov.uk/dataset/london-parliamentary-constituency-profiles
+ 		https://data.london.gov.uk/dataset/mylondon
+
+
+ 		EN ESPERA DE ENVIO DE DATA (Metropolitan Police Service) https://data.london.gov.uk/dataset/mps---mopac-data-submissions
+
+ https://www.kaggle.com/datasets/wosaku/crime-in-vancouver
+ https://www.kaggle.com/datasets/AnalyzeBoston/crimes-in-boston
+ https://www.kaggle.com/datasets/mchirico/philadelphiacrimedata
+ https://www.kaggle.com/datasets/inquisitivecrow/crime-data-in-brazil
+ https://www.kaggle.com/datasets/cityofLA/crime-in-los-angeles
+ https://www.kaggle.com/datasets/sohier/crime-in-baltimore
+ https://www.kaggle.com/datasets/ankkur13/boston-crime-data
+ https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset
+ https://www.kaggle.com/datasets/nehaprabhavalkar/crime-in-india
+ https://www.kaggle.com/datasets/mrisdal/minneapolis-incidents-crime
+
+
+ https://www.kaggle.com/datasets/mguzmann/swedishcrime
+ https://www.kaggle.com/datasets/deepankurk/up-crime-data-year-
+ https://www.kaggle.com/datasets/greeshmagirish/crime-against-women-20012014-india
+ https://www.kaggle.com/datasets/vinchinzu/dc-metro-crime-data
+ https://www.kaggle.com/datasets/marshallproject/crime-rates
+
+
+
+ 
+
