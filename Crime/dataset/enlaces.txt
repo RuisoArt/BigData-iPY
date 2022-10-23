@@ -1,0 +1,20 @@
+CrimeWorld
+	https://www.kaggle.com/datasets/taruntiwarihp/crime-world
+	https://www.kaggle.com/code/jwbrione/crime-world
+
+Serial Killers Dataset
+	https://www.kaggle.com/datasets/vesuvius13/serial-killers-dataset
+	https://www.kaggle.com/code/mohandamr/serial-killers
+	https://www.kaggle.com/code/renadn/serial-killers-data-visualization
+	https://www.kaggle.com/code/ankur296/know-your-serial-killers-well
+	https://www.kaggle.com/code/lenawerner/serial-killer-data
+
+Education Statistics
+	https://www.kaggle.com/datasets/theworldbank/education-statistics
+	https://www.kaggle.com/code/mrisdal/starter-education-statistics-d1de03b0-9
+
+Poverty World
+	https://www.kaggle.com/datasets/danofer/wb-poverty
+	https://www.kaggle.com/datasets/theworldbank/poverty-and-equity-database
+	https://www.kaggle.com/datasets/mathurinache/extreme-poverty
+
