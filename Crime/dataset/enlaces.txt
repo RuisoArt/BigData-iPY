@@ -18,3 +18,10 @@ Poverty World
 	https://www.kaggle.com/datasets/theworldbank/poverty-and-equity-database
 	https://www.kaggle.com/datasets/mathurinache/extreme-poverty
 
+Global Terrorism
+	https://www.kaggle.com/datasets/itssuru/global-terrorism
+
+
+
+
+https://datos.bancomundial.org/
