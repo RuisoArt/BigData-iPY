@@ -1,0 +1,36 @@
+CrimeWorld
+	https://www.kaggle.com/datasets/taruntiwarihp/crime-world
+	https://www.kaggle.com/code/jwbrione/crime-world
+
+Serial Killers Dataset
+	https://www.kaggle.com/datasets/vesuvius13/serial-killers-dataset
+	https://www.kaggle.com/code/mohandamr/serial-killers
+	https://www.kaggle.com/code/renadn/serial-killers-data-visualization
+	https://www.kaggle.com/code/ankur296/know-your-serial-killers-well
+	https://www.kaggle.com/code/lenawerner/serial-killer-data
+
+Education Statistics
+	https://www.kaggle.com/datasets/theworldbank/education-statistics
+	https://www.kaggle.com/code/mrisdal/starter-education-statistics-d1de03b0-9
+
+Poverty World
+	https://www.kaggle.com/datasets/danofer/wb-poverty
+	https://www.kaggle.com/datasets/theworldbank/poverty-and-equity-database
+	https://www.kaggle.com/datasets/mathurinache/extreme-poverty
+
+Global Terrorism
+	https://www.kaggle.com/datasets/itssuru/global-terrorism
+
+UNICEF State of World Children 2021
+    https://www.kaggle.com/datasets/nguyenngocphung/unicef-state-of-world-children-2021?select=Table-1-Demographics-SOWC2021-EN.xlsx
+    
+Mental Health and Suicide Rates
+    https://www.kaggle.com/datasets/twinkle0705/mental-health-and-suicide-rates
+    
+Global suicide data
+    https://www.kaggle.com/datasets/sathutr/global-suicide-data
+
+World Health Statistics 2020
+    https://www.kaggle.com/datasets/utkarshxy/who-worldhealth-statistics-2020-complete
+
+https://datos.bancomundial.org/
