@@ -1,0 +1,114 @@
+sate sate sate...
+
+
+---------------------------------------------------------------------------------------------------------
+1. 2KB representan
+					--> k --> 1000
+					--> B --> bytes
+	--> 2KB => 2000 B
+	--> if 1B son 8b then 2KB => 16000 b
+
+
+	96b representan
+
+					--> if 1 char => 16b => 2B then:  96b => 12char
+
+	8MB a KB
+					--> 8MB => 8.000.000 B => 8000KB
+
+
+	3GB a MB
+
+					--> 3GB => 3.000.000.000 B => 3000MB
+
+---------------------------------------------------------------------------------------------------------
+
+2. organizar de menor a mayor
+
+				1.576.648 B
+1,2 MB     ---> 1.200.000 B
+1.675 KB   ---> 1.675 B
+
+---------------------------------------------------------------------------------------------------------
+
+3. Capacidad MP3 es de 3GB y cada cancion pesa 3MB asi que cuantas canciones se puede almacenar:
+
+	1GB --> 1000MB
+
+	3GB --> 3000MB
+
+	( 30000MB / 3MB ) => 1000 canciones caben en el MP3 teoricamente hablando
+
+---------------------------------------------------------------------------------------------------------
+
+4. Capacidad de 2GB y a foto pesa 2MB, cuantas caben?
+
+	1GB --> 1000 MB then 2GB --> 2000MB
+
+	( 2000 MB / 2MB ) => 1000 fotos
+
+---------------------------------------------------------------------------------------------------------
+
+5. USB de capacidad maxima de 1GB
+	Espacio libre de 25%
+	archivo que se quiere almacenar 280.000KB
+
+	¿Se podra almacenar?
+
+	Almacenamiento COMPLETO     1GB => 1.000 MB => 1.000.000 KB
+	Almacenamiento LIBRE        (1.000.000 KB * 0.25) = 250.000 KB
+	Archivo a almacenar         280.000 KB
+
+	¿Se puede Almacenar?        No, el archivo es 30.000 KB mas grande que el espacio libre
+
+---------------------------------------------------------------------------------------------------------
+
+6. Gmail 50 millones de Usuarios
+	Cada uno tiene un almacenamiento INDIVIDUAL de 2747MB
+
+	¿Cuanto almacenamiento se requiere en PetaBytes?
+
+	Almacenamiento Usuario INDIVIDUAL     2747 MB => 2.747.000.000 B
+	Almacenamiento Usuarios TOTALES       ( 2.747 MB * 50 M Usuarios) = 1,3735xE 17 = 137,35xE 15 = 137,35 PB
+
+---------------------------------------------------------------------------------------------------------
+
+7.Cantidad de informacion creada     161.000 millones de gigabyte ¿cuanto es esto en exabytes?
+
+	EXA => 10^{18} => (000.000.000.000.000.000)
+
+	161.000    millones de     GB
+	161.000 +    (M)    +   (10^{9})
+	161.000 + (000.000) + (000.000.000)
+	161.000.000.000.000.000.000
+
+	then
+
+	161 EB
+
+---------------------------------------------------------------------------------------------------------
+
+8. texto maximo 1500 char, cuanto es en KB
+
+	1char --> 16b
+	16b   --> 2B
+
+	1500char --> 24000b --> 24KB
+
+---------------------------------------------------------------------------------------------------------
+
+9. capacidad TOTAL del disco 3.276,80 MB
+	espacio utilizado 1GB
+
+	¿bytes LIBRES?
+
+	Almacenamiento TOTAL     	3.276,80 MB  --> 3.276.800.000 B
+	Amacenamiento  UTILIZADO    1GB          --> 1.000.000.000 B
+	Almacenamiento LIBRE                     --> 2.276.800.000 B
+
+---------------------------------------------------------------------------------------------------------
+
+12. Almacenamiento Total    			49 GB --> 49.000 MB --> 49.000.000 KB
+	Almacenamiento utilizado					  17.000 MB --> 17.000.000 KB
+	Almacernamiento LIBRES										32.000.000 KB
+
